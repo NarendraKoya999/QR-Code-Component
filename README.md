@@ -3,7 +3,7 @@
 This repository contains a simple HTML webpage with a QR code component that encourages users to improve their front-end skills by building projects.
 
 ## Preview
-
+### Visit this Link to get Live Project: https://narendrakoya999.github.io/QR-Code-Component/
 
 ## Getting Started
 
