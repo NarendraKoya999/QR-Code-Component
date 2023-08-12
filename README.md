@@ -4,7 +4,6 @@ This repository contains a simple HTML webpage with a QR code component that enc
 
 ## Preview
 
-![QR Code Component Preview](images/image-qr-code.png)
 
 ## Getting Started
 
