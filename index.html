@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <title>QR code component</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    body {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      background-color: hsl(233, 40%, 67%);
+      color: hsl(0, 100%, 99%);
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      font-weight: 400;
+      line-height: 1.0;
+      padding: 1rem;
+    }
+    .inside-card{
+      background-color: hsl(249, 26%, 95%);
+      border-radius: 1rem;
+      padding: 1rem;
+      max-width: 300px;
+      width: 100%;
+      text-align: center;
+      color: hsl(0, 3%, 8%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      margin: 1rem;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .qr-img{
+      width: 100%;
+      border-radius: 1rem;
+      margin-bottom: 1rem;
+    }
+    .text{
+      width: 100%;
+    }
+    </style>
+</head>
+<body>
+  <div class="card">
+    <div class="inside-card">
+    <img src="images/image-qr-code.png" class="qr-img" alt="QR code">
+    <div class="text">
+    <h2>Improve your front-end skills by building projects</h2>
+    <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+    </div>
+    </div>
+  </div>
+</body>
+</html>
