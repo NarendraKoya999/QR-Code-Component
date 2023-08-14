@@ -3,7 +3,7 @@
 This repository contains a simple HTML webpage with a QR code component that encourages users to improve their front-end skills by building projects.
 
 ## Preview
-### Visit this Link to get Live Project: https://narendrakoya999.github.io/QR-Code-Component/
+### Visit this Link to get Live Project: [Live Project Link](https://narendrakoya999.github.io/QR-Code-Component/)
 
 ## Getting Started
 
@@ -15,8 +15,8 @@ The HTML code in `index.html` creates a webpage with a card-like component. The 
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)
 
 ## Styling
 
@@ -24,5 +24,6 @@ The webpage is styled using CSS. The styling is defined in the `<style>` section
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
