@@ -1,4 +1,4 @@
-# QR Code Component
+# QR Code Component Project
 
 This repository contains a simple HTML webpage with a QR code component that encourages users to improve their front-end skills by building projects.
 
